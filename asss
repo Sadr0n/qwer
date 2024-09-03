@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Я люблю тебя</title>
+	<style>
+		body {
+			background-color: #000; /* черный фон */
+			margin: 0; /* убираем отступы */
+			height: 100vh; /* делаем высоту страницы равной высоте экрана */
+			font-family: 'Pacifico', cursive; /* шрифт с красивыми буквами */
+			display: flex; /* делаем flex-элемент, чтобы центрировать текст */
+			justify-content: center; /* центрируем текст по горизонтали */
+			align-items: center; /* центрируем текст по вертикали */
+		}
+		h1 {
+			font-size: 128px; /* очень большой размер текста */
+			color: #ff69b4; /* розовый цвет текста */
+		}
+	</style>
+</head>
+<body>
+	<h1>Я люблю тебя</h1>
+</body>
+</html>
